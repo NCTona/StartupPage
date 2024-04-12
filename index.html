@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title><3</title>
+    <link rel="stylesheet" href="app.css" />
+    <script src="https://unpkg.com/lucide@latest"></script>
+  </head>
+
+  <!-- 
+      ╔╗ ╔═╗╔╗╔╔╦╗╔═╗
+      ╠╩╗║╣ ║║║ ║ ║ ║
+      ╚═╝╚═╝╝╚╝ ╩ ╚═╝
+      -->
+
+  <body class="">
+    <div class="container">
+      <!-- Clock and Greetings  -->
+
+      <div class="timeBlock">
+        <div class="clock">
+          <div id="hour"></div>
+          <div id="separator"></div>
+          <div id="minutes"></div>
+        </div>
+        <div class="date">
+          <div id="month"></div>
+          <div id="day"></div>
+        </div>
+        <div id="greetings"></div>
+      </div>
+
+      <div class="linksBlock" id="linksBlock"></div>
+      <div class="imageBlock" id="imgBlock">
+        <img
+          src="assets/img/kogecha2.jpg"
+          alt="Girl walk down the stair"
+        />
+      </div>
+    </div>
+
+    <!-- Config  -->
+    <script src="config.js"></script>
+
+    <!-- Scripts  -->
+    <script src="assets/js/layout.js"></script>
+    <script src="assets/js/time.js"></script>
+    <script src="assets/js/greeting.js"></script>
+
+    <!-- Generators  -->
+    <script src="assets/js/buttons.js"></script>
+    <!-- Icons -->
+    <script>
+      lucide.createIcons();
+    </script>
+  </body>
+
+  <!-- Developed and designed by Miguel Ávila: -->
+  <!-- https://avila.sh-->
+</html>
