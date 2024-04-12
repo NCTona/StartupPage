@@ -11,7 +11,7 @@ const CONFIG = {
   // └─┘┴ ┴└─┘┴└─┘└─┘
 
   // General
-  name: "Phuoc",
+  name: "Toan",
   imageBackground: false,
   openInNewTab: false,
   twelveHourFormat: false,
@@ -57,13 +57,13 @@ const CONFIG = {
     {
       id: "5",
       name: "Truyen",
-      icon: "figma",
-      link: "https://truyenqq.com/",
+      icon: "trello",
+      link: "https://truyenqqvn.com/",
     },
     {
       id: "6",
       name: "Anime",
-      icon: "trello",
+      icon: "figma",
       link: "https://animevietsub.day/",
     },
   ],
