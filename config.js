@@ -11,7 +11,7 @@ const CONFIG = {
   // └─┘┴ ┴└─┘┴└─┘└─┘
 
   // General
-  name: "Toan",
+  name: "Phuoc",
   imageBackground: false,
   openInNewTab: false,
   twelveHourFormat: false,
