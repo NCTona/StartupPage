@@ -11,7 +11,7 @@ const CONFIG = {
   // └─┘┴ ┴└─┘┴└─┘└─┘
 
   // General
-  name: "Phuoc",
+  name: "Toan",
   imageBackground: false,
   openInNewTab: false,
   twelveHourFormat: false,
@@ -32,39 +32,39 @@ const CONFIG = {
   firstButtonsContainer: [
     {
       id: "1",
+      name: "Facebook",
+      icon: "facebook",
+      link: "https://facebook.com//",
+    },
+    {
+      id: "2",
       name: "Youtube",
       icon: "youtube",
       link: "https://youtube.com/",
     },
     {
-      id: "2",
-      name: "Facebook",
-      icon: "facebook",
-      link: "https://facebook.com/",
-    },
-    {
       id: "3",
-      name: "Reddit",
+      name: "Study",
       icon: "glasses",
-      link: "https://reddit.com",
+      link: "https://learn-kma.netlify.app/",
     },
     {
       id: "4",
-      name: "Github",
-      icon: "github",
-      link: "https://github.com",
+      name: "ChatGPT",
+      icon: "bot",
+      link: "https://chat.openai.com/",
     },
     {
       id: "5",
-      name: "X",
-      icon: "twitter",
-      link: "https://x.com",
+      name: "Truyen",
+      icon: "figma",
+      link: "https://truyenqq.com/",
     },
     {
       id: "6",
-      name: "Zalo",
-      icon: "message-circle-heart",
-      link: "https://chat.zalo.me/",
+      name: "Anime",
+      icon: "trello",
+      link: "https://animevietsub.day/",
     },
   ],
 };
