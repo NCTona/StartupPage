@@ -17,10 +17,10 @@ const CONFIG = {
   twelveHourFormat: false,
 
   // Greetings
-  greetingMorning: "おはよう~ <3",
-  greetingAfternoon: "こんにちは~",
-  greetingEvening: "こんばんは~",
-  greetingNight: "寝てください!!!",
+  greetingMorning: "Ohayou~ <3",
+  greetingAfternoon: "Konnichiwa~",
+  greetingEvening: "Konbanwa~",
+  greetingNight: "Oyasuminasai!!!",
 
   // Layout
   bentoLayout: "bento", // 'bento', 'lists', 'buttons', 
