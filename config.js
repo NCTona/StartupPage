@@ -45,7 +45,7 @@ const CONFIG = {
     {
       id: "3",
       name: "Discord",
-      icon: "discord",
+      icon: "Linkedin",
       link: "https://discord.com/",
     },
     {
