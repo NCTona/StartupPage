@@ -46,7 +46,7 @@ const CONFIG = {
       id: "3",
       name: "Discord",
       icon: "Hashnode",
-      link: "https://discord.com/",
+      link: "https://discord.com/channels/@me/",
     },
     {
       id: "4",
