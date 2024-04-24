@@ -45,7 +45,7 @@ const CONFIG = {
     {
       id: "3",
       name: "Discord",
-      icon: "slack",
+      icon: "Inspirational",
       link: "https://discord.com/channels/@me/",
     },
     {
