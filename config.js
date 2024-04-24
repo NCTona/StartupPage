@@ -46,7 +46,7 @@ const CONFIG = {
       id: "3",
       name: "Discord",
       icon: "headphone",
-      link: "https://learn-kma.netlify.app/",
+      link: "https://discord.com/",
     },
     {
       id: "4",
