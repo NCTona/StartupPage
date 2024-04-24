@@ -45,7 +45,7 @@ const CONFIG = {
     {
       id: "3",
       name: "Discord",
-      icon: "music",
+      icon: "headset",
       link: "https://discord.com/channels/@me/",
     },
     {
@@ -57,13 +57,13 @@ const CONFIG = {
     {
       id: "5",
       name: "Truyen",
-      icon: "trello",
+      icon: "book-open",
       link: "https://truyenqqvn.com/",
     },
     {
       id: "6",
       name: "Anime",
-      icon: "figma",
+      icon: "film",
       link: "https://animevietsub.day/",
     },
   ],
