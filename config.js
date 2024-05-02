@@ -34,7 +34,7 @@ const CONFIG = {
       id: "1",
       name: "Facebook",
       icon: "facebook",
-      link: "https://facebook.com//",
+      link: "https://facebook.com/",
     },
     {
       id: "2",
@@ -64,7 +64,7 @@ const CONFIG = {
       id: "6",
       name: "Anime",
       icon: "film",
-      link: "https://animevietsub.day/",
+      link: "https://animevietsub.fun/",
     },
   ],
 };
