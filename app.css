@@ -89,7 +89,7 @@ body {
 }
 
 .card:hover {
-  transform: translateY(-1rem);
+  transform: translateY(-0.8rem);
 }
 
 .timeBlock {
