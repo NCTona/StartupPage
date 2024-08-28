@@ -64,7 +64,7 @@ const CONFIG = {
       id: "6",
       name: "Anime",
       icon: "film",
-      link: "https://animevietsub.fun/",
+      link: "https://animevietsub.app/",
     },
   ],
 };
