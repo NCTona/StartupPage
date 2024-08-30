@@ -58,7 +58,7 @@ const CONFIG = {
       id: "5",
       name: "Truyen",
       icon: "book-open",
-      link: "https://truyenqqviet.com/",
+      link: "https://truyenqqto.com/",
     },
     {
       id: "6",
